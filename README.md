@@ -31,7 +31,7 @@ preauthorizePermission method (At the moment this method is not working).
 <img src="http://i.imgur.com/AUYL7dK.png" alt="WebRTC on the Chrome WebView Example" />
 </p>
 
-##TEXT_AUTOSIZING
+## TEXT_AUTOSIZING
 
 From KitKat and above, there will no longer be support for [SINGLE_COLUMN or NARROW_COLUMN layout algorithms](http://developer.android.com/reference/android/webkit/WebSettings.LayoutAlgorithm.html).
 
@@ -53,7 +53,7 @@ The *web-touch-example* contains a simple app which uses touch to move an elemen
 <img src="http://i.imgur.com/ffz4gkV.png" alt="Image of WebView Touch Example" />
 </p>
 
-##JS Interface in the WebView
+## JS Interface in the WebView
 
 This example demonstrates the following:
 
