@@ -41,7 +41,7 @@ However a new layout algorithm [TEXT_AUTOSIZING](http://developer.android.com/re
 <img src="http://i.imgur.com/03c0isb.png" alt="Image Show off TEXT_AUTOSIZING" />
 </p>
 
-##Touch Events in the WebView
+## Touch Events in the WebView
 
 In the older version of the WebView developers didn't need to implement the *touchcancel* event, although it's good practice to do so.
 
